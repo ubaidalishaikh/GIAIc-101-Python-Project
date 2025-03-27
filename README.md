@@ -1,4 +1,4 @@
-# GIAIc-101-Python-Project
+# GIAIC-101-Python-Project
 
 # 🚀 Python Mini Projects Collection 🎯
 
